@@ -23,7 +23,7 @@ A robust backend application developed using Spring Boot and MySQL for data stor
 - Maven (dependency management)
 - SMTP Server (email integration)
 ## Flow Diagram
-[![RD60hz.Screenshot-2024-03-13-041146.png](https://i.im.ge/2024/03/13/RD60hz.Screenshot-2024-03-13-041146.png)](https://im.ge/i/Screenshot-2024-03-13-041146.RD60hz)
+![RD60hz.Screenshot-2024-03-13-041146.png](https://i.im.ge/2024/03/13/RD60hz.Screenshot-2024-03-13-041146.png)
 ## Project UI (Swagger)
 
 ![App Screenshot](https://i.im.ge/2024/03/13/RD9qkr.Screenshot-2024-03-13-032453.png)
